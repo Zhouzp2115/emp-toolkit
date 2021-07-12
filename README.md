@@ -1,1 +1,1 @@
-customized cudafix-num for secure infer and train (clone from https://github.com/emp-toolkit)
+customized emp-toolkit for secure infer and train (clone from https://github.com/emp-toolkit)
